@@ -1,7 +1,7 @@
 ﻿# Used Car Price Prediction
 🚗 Used Car Analytics: Fair Market Value Estimation & Trust Score Modeling
-📌 Project Overview
 
+📌 Project Overview
 Buying a used car often involves uncertainty around pricing accuracy and listing reliability. This project addresses that challenge by leveraging large-scale automotive data, statistical modeling, and machine learning to estimate Fair Market Value (FMV) and assess the trustworthiness of used car listings.
 Using over 5.6 million VIN-level dealership listings from the U.S. used car market (2013–2022), this analysis supports more transparent pricing, improved buyer confidence, and better-informed business decisions.
 
